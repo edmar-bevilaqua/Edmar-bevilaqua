@@ -1,4 +1,5 @@
-- 👋 Hi, my name is Edmar Junyor Bevilaqua but I also respond to the nickname "Mathinhos". I’m a 23 years old brazilian programmer and forest engineer;
+- 👋 Hi, my name is Edmar Junyor Bevilaqua but I also respond to the nickname "Mathinhos". I’m a 24 years old brazilian programmer and forest engineer;
+- 💼 I work as a Data Scientist for CMPC Brazil in the Research & Development sector;
 - 👀 I’m interested in a variety of games, animes, cartoons, technology, machine learning and investments;
 - 🌱 I’m currently learning Python, Java, JS, R, ML, POO, HTML and CSS.
 - 💞️ I’m looking to collaborate anywhere I’m invited to;
